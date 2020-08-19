@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_margin="4dp"
+    android:elevation="4dp"
+    app:cardCornerRadius="6dp"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+<!--    <LinearLayout-->
+<!--        android:layout_width="match_parent"-->
+<!--        android:layout_height="wrap_content"-->
+<!--        android:orientation="vertical">-->
+
+<!--        <FrameLayout-->
+<!--            android:id="@+id/base_frameLayout"-->
+<!--            android:layout_width="match_parent"-->
+<!--            android:layout_height="wrap_content">-->
+
+<!--            <ImageView-->
+<!--                android:id="@+id/item_ivNews"-->
+<!--                android:layout_width="match_parent"-->
+<!--                android:layout_height="120dp"-->
+<!--                android:scaleType="centerCrop"-->
+<!--                android:src="@drawable/ic_launcher_background" />-->
+
+<!--            <TextView-->
+<!--                android:id="@+id/item_tvTitle_news"-->
+<!--                android:layout_width="match_parent"-->
+<!--                android:layout_height="wrap_content"-->
+<!--                android:layout_gravity="bottom"-->
+<!--                android:layout_marginStart="8dp"-->
+<!--                android:layout_marginEnd="8dp"-->
+<!--                android:layout_marginBottom="4dp"-->
+<!--                android:ellipsize="end"-->
+<!--                android:fontFamily="@font/mboldextra"-->
+<!--                android:maxLines="3"-->
+<!--                android:text="@string/app_name"-->
+<!--                android:textColor="@color/colorPrimary"-->
+<!--                android:textSize="12sp" />-->
+
+<!--        </FrameLayout>-->
+
+<!--        <TextView-->
+<!--            android:id="@+id/item_tvDate_news"-->
+<!--            android:layout_width="match_parent"-->
+<!--            android:layout_height="wrap_content"-->
+<!--            android:layout_marginTop="4dp"-->
+<!--            android:layout_marginEnd="12dp"-->
+<!--            android:fontFamily="@font/mlight"-->
+<!--            android:gravity="end"-->
+<!--            android:text="@string/app_name"-->
+<!--            android:textColor="@color/colorPrimaryDark50Opacity"-->
+<!--            android:textSize="8sp"-->
+<!--            tools:ignore="SmallSp" />-->
+
+<!--        <TextView-->
+<!--            android:id="@+id/item_tvDate_desc"-->
+<!--            android:layout_width="match_parent"-->
+<!--            android:layout_height="wrap_content"-->
+<!--            android:layout_marginStart="8dp"-->
+<!--            android:layout_marginTop="4dp"-->
+<!--            android:layout_marginEnd="8dp"-->
+<!--            android:layout_marginBottom="12dp"-->
+<!--            android:fontFamily="@font/mlight"-->
+<!--            android:text="@string/app_name"-->
+<!--            android:textColor="@color/colorPrimaryDark50Opacity"-->
+<!--            android:textSize="8sp"-->
+<!--            tools:ignore="SmallSp" />-->
+
+<!--        <RelativeLayout-->
+<!--            android:layout_width="match_parent"-->
+<!--            android:layout_height="match_parent"-->
+<!--            android:paddingStart="8dp"-->
+<!--            android:paddingEnd="8dp">-->
+
+<!--            <ImageView-->
+<!--                android:id="@+id/iconauthor"-->
+<!--                android:layout_width="15dp"-->
+<!--                android:layout_height="15dp"-->
+<!--                android:layout_marginTop="2dp"-->
+<!--                android:contentDescription="@string/iconwriter"-->
+<!--                android:src="@drawable/ic_writer" />-->
+
+<!--            <TextView-->
+<!--                android:id="@+id/author"-->
+<!--                android:layout_width="wrap_content"-->
+<!--                android:layout_height="wrap_content"-->
+<!--                android:layout_marginStart="2dp"-->
+<!--                android:layout_marginTop="2dp"-->
+<!--                android:layout_marginEnd="8dp"-->
+<!--                android:layout_marginBottom="12dp"-->
+<!--                android:layout_toEndOf="@+id/iconauthor"-->
+<!--                android:fontFamily="@font/mlight"-->
+<!--                android:text="@string/app_name"-->
+<!--                android:textColor="@color/colorPrimaryDark50Opacity"-->
+<!--                android:textSize="10sp"-->
+<!--                tools:ignore="SmallSp" />-->
+
+<!--            <Button-->
+<!--                android:layout_width="70dp"-->
+<!--                android:layout_height="20dp"-->
+<!--                android:layout_alignParentEnd="true"-->
+<!--                android:layout_marginEnd="8dp"-->
+<!--                android:layout_marginBottom="10dp"-->
+<!--                android:background="@color/colorAccent"-->
+<!--                android:fontFamily="@font/mmedium"-->
+<!--                android:text="@string/readmore"-->
+<!--                android:textAllCaps="false"-->
+<!--                android:textColor="@color/colorPrimary"-->
+<!--                android:textSize="8sp"-->
+<!--                tools:ignore="SmallSp" />-->
+
+
+<!--        </RelativeLayout>-->
+
+
+<!--    </LinearLayout>-->
+
+
+</androidx.cardview.widget.CardView>
